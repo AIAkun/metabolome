@@ -1,0 +1,6 @@
+#下载HMDB数据xml文件
+https://hmdb.ca/downloads
+Data Set-All Metabolites
+#提取xml数据到保存为rda，csv
+hmdb_parse.R
+注意：运行上面R脚本需要大内存>32G，运行时间大约4小时。
